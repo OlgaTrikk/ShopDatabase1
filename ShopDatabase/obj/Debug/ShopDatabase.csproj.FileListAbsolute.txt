@@ -1,0 +1,12 @@
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.exe.config
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.exe
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.pdb
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\EntityFramework.dll
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\EntityFramework.xml
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csproj.CopyComplete
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.exe
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.pdb
