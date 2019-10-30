@@ -14,6 +14,12 @@ namespace ShopDatabase.Models
 
 		public double Price { get; set; }
 
+		public virtual ShoppingCart ShoppingCart { get; set; }
+
+		public Food()
+		{			
+		}
+
 		public Food(string name, double price)
 		{
 			Id = Guid.NewGuid();

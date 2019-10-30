@@ -14,7 +14,7 @@ namespace ShopDatabase.Models
 
 		public DateTime DateCreated { get; set; }
 
-		public List<Food> Items { get; set; }
+		public virtual ICollection<Food> Items { get; set; }
 
 		public ShoppingCart()
 		{
@@ -22,6 +22,12 @@ namespace ShopDatabase.Models
 			Items = new List<Food>();
 			Sum = 0;
 			DateCreated = DateTime.Now;
+		}
+
+		internal void AddToCart(Food food)
+		{
+			Items.Add(food);
+			Sum += food.Price;
 		}
 	}
 }
