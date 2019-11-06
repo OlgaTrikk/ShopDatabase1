@@ -1,0 +1,12 @@
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\ShopDatabaseAdvanced.exe.config
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\ShopDatabaseAdvanced.exe
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\ShopDatabaseAdvanced.pdb
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\EntityFramework.dll
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\EntityFramework.xml
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.csprojAssemblyReference.cache
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.csproj.CopyComplete
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.exe
+C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabaseAdvanced\obj\Debug\ShopDatabaseAdvanced.pdb
