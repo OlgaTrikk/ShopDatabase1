@@ -1,4 +1,3 @@
-C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
 C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
 C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.exe.config
 C:\Users\olga.trikk\source\repos\ShopDatabase\ShopDatabase\bin\Debug\ShopDatabase.exe

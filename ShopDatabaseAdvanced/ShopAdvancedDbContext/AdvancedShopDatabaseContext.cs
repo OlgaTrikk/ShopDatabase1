@@ -11,7 +11,8 @@ namespace ShopDatabaseAdvanced.ShopAdvancedDbContext
 	class AdvancedShopDatabaseContext : DbContext
 	{
 		public AdvancedShopDatabaseContext() : base("AdvancedShopDatabase")
-		{		
+		{
+			Database.SetInitializer(new MigrateDatabaseToLatestVersion<AdvancedShopDatabaseContext, Migrations.Configuration>());
 		}
 
 		public DbSet<ShoppingCart> ShoppingCarts { get; set; }

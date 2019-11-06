@@ -17,7 +17,8 @@ namespace ShopDatabaseAdvanced.Models
 		public virtual ICollection<ShoppingCart> ShoppingCarts { get; set; }
 
 		public Food()
-		{			
+		{
+			Id = Guid.NewGuid();
 		}
 
 		public Food(string name, double price)

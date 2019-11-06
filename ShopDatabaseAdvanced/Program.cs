@@ -12,14 +12,7 @@ namespace ShopDatabaseAdvanced
 	{
 		static void Main(string[] args)
 		{
-			//List<Food> groceries = new List<Food>
-			//{
-			//	new Food("apple", 1.7),
-			//	new Food("bread", 1.2),
-			//	new Food("cheese", 2),
-			//	new Food("milk", 1),
-			//	new Food("icecream", 1.5)
-			//};
+			
 
 			using (var db = new AdvancedShopDatabaseContext())
 			{
